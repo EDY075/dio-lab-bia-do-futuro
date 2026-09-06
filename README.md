@@ -1,4 +1,10 @@
+![BIA do Futuro — Agente Financeiro com IA Generativa](docs/assets/bia-futuro-banner.png)
+
 # 🤖 Agente Financeiro Inteligente com IA Generativa
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-learning-10B981?style=flat-square) ![Financial Education](https://img.shields.io/badge/Financial_Education-responsible-0F766E?style=flat-square) ![DIO](https://img.shields.io/badge/DIO-Lab-2563EB?style=flat-square) ![Status](https://img.shields.io/badge/Status-Starter_Kit-6B7280?style=flat-square)
+
+> **Estado deste fork:** material inicial do laboratório, com dados fictícios, templates e referências. Uma aplicação funcional ainda não foi implementada neste repositório; a lista abaixo descreve as entregas propostas pelo desafio.
 
 ## Contexto
 
